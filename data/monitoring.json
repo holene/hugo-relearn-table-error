@@ -1,0 +1,41 @@
+{
+  "departments": [
+     {
+        "name": "fou",
+        "description": "A short description of the department",
+        "prometheus": "url1",
+        "grafana": "url2",
+        "alertmanager": "url3"
+      },
+     {
+        "name": "geo",
+        "description": "A short description of the department",
+        "prometheus": "url1",
+        "grafana": "url2",
+        "alertmanager": "url3"
+     }
+  ],
+  "teams":[
+     {
+        "name": "geo-frontend",
+        "description": "A short description of the team",
+        "prometheus": "url1",
+        "grafana": "url2",
+        "alertmanager": "url3"
+     },
+     {
+        "name": "geo-backend",
+        "description": "A short description of the team",
+        "prometheus": "url1",
+        "grafana": "url2",
+        "alertmanager": "url3"
+     },
+     {
+        "name": "k8s-team",
+        "description": "A short description of the team",
+        "prometheus": "url1",
+        "grafana": "url2",
+        "alertmanager": "url3"
+     }
+  ]
+}
